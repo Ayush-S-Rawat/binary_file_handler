@@ -1,0 +1,21 @@
+{
+  "name": "binary_file_handler",
+  "version": "1.0.0",
+  "description": "A node package for doing basic instructions on binary files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-S-Rawat/binary_file_handler.git"
+  },
+  "keywords": ["binary", "binary file", "binary_file", "binary_file_handler", "binary file handler"],
+  "author": "Ayush Rawat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayush-S-Rawat/binary_file_handler/issues"
+  },
+  "homepage": "https://github.com/Ayush-S-Rawat/binary_file_handler#readme",
+  "dependencies": {}
+}
