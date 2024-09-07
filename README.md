@@ -7,4 +7,4 @@ A Node.js package for handling binary files, including reading, writing, and man
 To install the package, run:
 
 ```bash
-npm install binary-file-handler
+npm install binary_file_handler
